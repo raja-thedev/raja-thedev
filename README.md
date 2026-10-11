@@ -50,7 +50,7 @@ Explore my repositories for Java applications, backend engineering, microservice
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/raja244)
-- 💻 [GitHub](https://github.com/Raja244)
+- 💻 [GitHub](https://github.com/raja-thedev)
 - 📧 [Email Me](mailto:rajasaha.thedev@gmail.com)
 
 ---
