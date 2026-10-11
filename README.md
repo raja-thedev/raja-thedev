@@ -1,54 +1,35 @@
 
 # Hi, I'm Raja Saha 👋
 
-### Java Full Stack Developer | Backend & Microservices Engineer
+### Java Full Stack Developer | Backend Engineer
 
-I’m a Software Engineer at Capgemini with 2 years of experience building enterprise applications for the logistics domain. I specialize in Java, Spring Boot, microservices, REST APIs, and event-driven systems using Apache Kafka.
+I'm a software developer passionate about building scalable applications, designing REST APIs, and developing event-driven microservices.
 
-- 🔭 Currently working on enterprise logistics applications.
-- 💻 Backend: Java 17/21, Spring Boot, Spring Security, Hibernate.
-- 🔄 Messaging: Apache Kafka, AVRO, CloudEvents.
-- 🗄️ Database: PostgreSQL, Spring Data JPA, QueryDSL, Flyway.
-- 🌐 Frontend: Angular, TypeScript, HTML, CSS, Bootstrap.
-- ☁️ Cloud & DevOps: AWS, Docker, Jenkins, GitLab CI/CD.
-- 🧪 Testing: JUnit 5, Mockito, Testcontainers.
-- 🎯 Goal: Build scalable, reliable, production-ready software.
-- 📜 Certification: AWS Certified Developer – Associate.
-- 🤖 Also exploring AI-assisted development and developer tools.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Java, TypeScript, SQL
-
-**Backend:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, REST APIs, Microservices
-
-**Messaging:** Apache Kafka, AVRO, CloudEvents
-
-**Frontend:** Angular, HTML5, CSS3, Bootstrap
-
-**Database:** PostgreSQL, MySQL, QueryDSL, Flyway
-
-**Cloud & Tools:** AWS, Docker, Jenkins, Git, Gradle, GitLab CI/CD, Postman, Swagger
-
-**Testing & Quality:** JUnit 5, Mockito, Testcontainers, SonarQube, JaCoCo
+- 💻 **Languages:** Java 17/21, TypeScript, SQL
+- ⚙️ **Backend:** Spring Boot, Spring Security, Hibernate, REST APIs, Microservices
+- 🔄 **Messaging:** Apache Kafka, AVRO, CloudEvents
+- 🗄️ **Databases:** PostgreSQL, MySQL, QueryDSL, Flyway
+- 🌐 **Frontend:** Angular, HTML5, CSS3, Bootstrap
+- ☁️ **Cloud & Tools:** AWS, Docker, Jenkins, Git, Gradle
+- 🧪 **Testing:** JUnit 5, Mockito, Testcontainers
+- 📚 **Interests:** System Design, Distributed Systems, Clean Code, Design Patterns
+- 🤖 **Exploring:** AI-assisted development and developer tools
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Event-Driven Order Processing Platform
-**Tech:** Java, Spring Boot, Apache Kafka, PostgreSQL, Angular
+### Event-Driven Order Processing Platform
+**Tech Stack:** Java, Spring Boot, Apache Kafka, PostgreSQL, Angular
 
-- Built REST APIs for product, cart, order, and user workflows.
-- Implemented asynchronous Kafka-based communication between services.
-- Developed database persistence, validation, and error handling.
+- Developed REST APIs for product, cart, order, and user workflows.
+- Implemented asynchronous communication between services using Kafka.
+- Built database persistence, validation, and error-handling layers.
 
-### 2. Explore My Other Projects
-Check out my repositories for Java applications, backend development, microservices, and developer tools.
+### More Projects
+Explore my repositories for Java applications, backend engineering, microservices, and development experiments.
 
-👉 [Browse My Repositories](https://github.com/Raja244?tab=repositories)
+👉 [Explore My Repositories](https://github.com/Raja244?tab=repositories)
 
 ---
 
@@ -61,17 +42,17 @@ Check out my repositories for Java applications, backend development, microservi
 
 ## 🎓 Education
 
-- **Master of Computer Applications (MCA)** — Lovely Professional University | 86.7%
-- **Bachelor of Computer Applications (BCA)** — University of Engineering & Management | 84.1%
+- **MCA** — Lovely Professional University | 86.7%
+- **BCA** — University of Engineering & Management | 84.1%
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/raja244](https://linkedin.com/in/raja244)
-- 💻 GitHub: [github.com/Raja244](https://github.com/Raja244)
-- 📧 Email: rajasaha.thedev@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/raja244)
+- 💻 [GitHub](https://github.com/Raja244)
+- 📧 [Email Me](mailto:rajasaha.thedev@gmail.com)
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Always learning, building, and improving as a developer.
